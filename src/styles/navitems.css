@@ -1,0 +1,18 @@
+.menu-btn {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 0.313rem;
+    margin: 0.125rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-btn svg {
+    fill: black;
+    width: 1.5rem;
+    height: 1.5rem;
+    transform: rotate(45deg);
+}
